@@ -16,9 +16,9 @@ Fale comigo sobre
 - Desenvolvimento de aplicativos móveis usando **React Native e Expo**
 - Criação de arquitetura de nuvem escalonável usando **AWS Cloud** (ainda aprendendo)
 ## Olá Mundo!! 🤔
-- 💬 Pergunte-me sobre tudo e qualquer coisa.
+- 💬  Pergunte-me sobre tudo e qualquer coisa.
 - ⚡ Curiosidade: os usuários da Internet piscam menos do que o normal. 23
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=jpsoarxs&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jpsoarxs.jpsoarxs)
