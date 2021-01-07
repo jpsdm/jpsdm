@@ -18,8 +18,7 @@ Fale comigo sobre
 - Criação de arquitetura de nuvem escalonável usando **AWS Cloud** (ainda aprendendo)
 ## Olá Mundo!! 🤔
 - 💬  Pergunte-me sobre tudo e qualquer coisa.
-- ⚡ Curiosidade: os usuários da Internet piscam menos do que o normal. 23
+- ⚡ Curiosidade: os usuários da Internet piscam menos do que o normal.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=jpsoarxs&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jpsoarxs.jpsoarxs)
