@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jpsoarxs)](https://twitter.com/jpsoarxs) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpsoarxs/)](https://www.linkedin.com/in/jpsoarxs/) [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpsoares.contato@gmail.com)](mailto:jpsoares.contato@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@jpsoarxs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jpsoarxs)](https://twitter.com/jpsoarxs) [![Linkedin Badge](https://img.shields.io/badge/-jpsoarxs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpsoarxs/)](https://www.linkedin.com/in/jpsoarxs/) [![Gmail Badge](https://img.shields.io/badge/-jpsoares.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpsoares.contato@gmail.com)](mailto:jpsoares.contato@gmail.com)
 
 Mais de 4 anos atuando como desenvolvedor full-stack no desenvolvendo sites, aplicativos e API's. Estou sempre buscando adquirir novos conhecimentos e experiências. Gosto de trabalhar em grupo e contribuir ao máximo. Possuo domínio de boas praticas de programação, padrōes de projeto, metodologias ágeis, modelagem de dados e algoritmos.
 ## ⚡ Tecnologias
