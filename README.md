@@ -1,24 +1,59 @@
-<h2> Olá pessoal, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Olá, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h1>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align="center">
+  <strong>Analista de Sistemas | Especialista em JavaScript | Apaixonado por Inovação
+</strong>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@jpsoarxs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jpsoarxs)](https://twitter.com/jpsoarxs) [![Linkedin Badge](https://img.shields.io/badge/-jpsoarxs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpsoarxs/)](https://www.linkedin.com/in/jpsoarxs/) [![Gmail Badge](https://img.shields.io/badge/-contato.jpsdm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jpsdm@gmail.com)](mailto:contato.jpsdm@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jpsoarxs/"><img src="https://img.shields.io/badge/-jpsoarxs-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dev.jpsdm@gmail.com"><img src="https://img.shields.io/badge/-dev.jpsdm@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-Mais de 5 anos atuando como desenvolvedor full-stack desenvolvendo sites, aplicativos e API's. Estou sempre buscando adquirir novos conhecimentos e experiências. Gosto de trabalhar em grupo e contribuir ao máximo. Possuo domínio de boas praticas de programação, padrōes de projeto, metodologias ágeis, modelagem de dados e algoritmos.
+---
 
-- Cursando: Análise e Desenvolvimento de Sistemas 🖥
-## ⚡ Tecnologias
-Fale comigo sobre
-- Desenvolvimento front-end usando **HTML, Javascript, CSS, Bootstrap, React, Vue e Nuxt**
-- Desenvolvimento de back-end usando **Node e Nest**
-- Banco de dados **MySQL, MongoDB e PostgreSQL**
-- Implementação robusta de design de sistema full-stack
-- Desenvolvimento de aplicativos desktop usando **Electron** (ainda aprendendo)
-- Desenvolvimento de aplicativos móveis usando **React Native e Expo**
-- Criação de arquitetura de nuvem escalonável usando **AWS Cloud**
-## Olá Mundo!! 🤔
-- 💬  Pergunte-me sobre tudo e qualquer coisa.
-- ⚡ Curiosidade: os usuários da Internet piscam menos do que o normal.
+### 🚀 Sobre Mim
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=jpsoarxs&hide=["issues"]&show_icons=true)
+Sou um desenvolvedor altamente motivado com mais de 6 anos de experiência na criação de aplicações escaláveis, robustas e amigáveis para o usuário. Minha especialidade está tanto no desenvolvimento front-end quanto no back-end, com foco em JavaScript e frameworks modernos.
 
+- **Graduação**: Análise e Desenvolvimento de Sistemas 💻
+- **Paixões**: Construir soluções elegantes, colaborar com equipes e explorar novas tecnologias.
+- **Curiosidade**: Usuários de internet piscam menos do que o normal enquanto navegam!
+
+---
+
+### 🔧 Tecnologias & Habilidades
+
+#### Front-End:
+- **Frameworks**: React, Next.js, Vue.js, Angular
+- **Design**: HTML5, CSS3, SCSS, TailwindCSS
+
+#### Back-End:
+- **Linguagens**: Node.js, TypeScript, JavaScript
+- **Frameworks**: NestJS, Express
+- **Bancos de Dados**: MySQL, PostgreSQL, MongoDB, DynamoDB
+
+#### Desenvolvimento Mobile:
+- **Ferramentas**: React Native, Expo
+
+#### Cloud & DevOps:
+- **Plataformas**: AWS (S3, Lambda, EC2, EKS)
+- **Ferramentas**: Docker, Kubernetes, Jenkins, CloudWatch
+
+---
+
+### 🎨 GitHub Destaques
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpsoarxs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsoarxs&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 📚 Let's Connect
+
+Estou sempre aberto a colaborar em projetos inovadores ou discutir novas ideias. Fique à vontade para entrar em contato através de qualquer uma das plataformas abaixo:
+
+- **LinkedIn**: [jpsoarxs](https://www.linkedin.com/in/jpsoarxs/)
+- **Email**: [dev.jpsdm@gmail.com](mailto:dev.jpsdm@gmail.com)
